@@ -1,0 +1,24 @@
+
+
+label{
+    background-color:lightsteelblue;
+    font-size: 20px;
+    font-family: monospace;
+    color:red;
+    margin: 20px;
+}
+    
+
+
+button{
+    border-color: darkcyan;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color:azure;
+    background-color: darkseagreen;
+    height: 30px;
+    width:100px;
+    border-width: 4px;
+    margin: 10px;
+    font-size: 15px;
+}
